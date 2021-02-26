@@ -15,7 +15,7 @@ char can;
 };
 
 
-char ans[91];                     //get response of attemter
+char ans[91];                     //get response of attempter
 
 
 void mouse()                      //fxns for mouse
